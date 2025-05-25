@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0118-pascals-triangle](https://github.com/teja0101/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3194-find-words-containing-character](https://github.com/teja0101/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
 ## Binary Search
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/teja0101/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/teja0101/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
