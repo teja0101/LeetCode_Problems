@@ -16,7 +16,7 @@ class Solution {
                     cur.add( pre.get(j - 1) + pre.get(j) );
                 }
                 cur.add(1);
-                dp.add( (i % 2),( new ArrayList<>(cur) ) );
+                dp.set( (i % 2),( new ArrayList<>(cur) ) );
         }
         return dp.get((rowIndex % 2));
     }
