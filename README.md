@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/teja0101/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/teja0101/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
+## Math
+|  |
+| ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/teja0101/LeetCode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
