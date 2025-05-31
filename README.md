@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/teja0101/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/teja0101/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0945-snakes-and-ladders](https://github.com/teja0101/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
 | [3194-find-words-containing-character](https://github.com/teja0101/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/teja0101/LeetCode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/teja0101/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
+## Matrix
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/teja0101/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
 <!---LeetCode Topics End-->
