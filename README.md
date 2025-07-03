@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/teja0101/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/teja0101/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/teja0101/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/teja0101/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0945-snakes-and-ladders](https://github.com/teja0101/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/teja0101/LeetCode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Breadth-First Search
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/teja0101/LeetCode_Problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
