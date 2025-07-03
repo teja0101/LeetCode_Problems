@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0118-pascals-triangle](https://github.com/teja0101/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/teja0101/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/teja0101/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/teja0101/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0189-rotate-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/teja0101/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/teja0101/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/teja0101/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/teja0101/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 ## Math
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/teja0101/LeetCode_Problems/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/teja0101/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
