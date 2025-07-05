@@ -9,11 +9,10 @@ class Solution {
 
             int ele = Math.abs(nums[i]);
             if (ele >= 1 && ele <= n) {
-                int idx = ele - 1;
-                if (nums[idx] > 0) {
-                    nums[idx] = -nums[idx];
-                } else if (nums[idx] == 0) {
-                    nums[idx] = -(n + 1);
+                if (nums[ele - 1] > 0) {
+                    nums[ele - 1] = -nums[ele - 1];
+                } else if (nums[ele - 1] == 0) {
+                    nums[ele - 1] = -(n + 1);
                 }
             }
 
