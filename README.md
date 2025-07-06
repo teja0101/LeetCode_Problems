@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/teja0101/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/teja0101/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/teja0101/LeetCode_Problems/tree/master/0118-pascals-triangle) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/teja0101/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/teja0101/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [3194-find-words-containing-character](https://github.com/teja0101/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/teja0101/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/teja0101/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
