@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/teja0101/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/teja0101/LeetCode_Problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/teja0101/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/teja0101/LeetCode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/teja0101/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/teja0101/LeetCode_Problems/tree/master/0260-single-number-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/teja0101/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/teja0101/LeetCode_Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
