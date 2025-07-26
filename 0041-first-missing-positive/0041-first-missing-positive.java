@@ -1,28 +1,33 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        int n = nums.length;
-        for (int i = 0; i < n; i++) {
-            if (nums[i] < 0)
-                nums[i] = n + 1;
+        boolean flage = false;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] <= 0)
+                nums[i] = nums.length + 2; /// even if len + 2 number is present in the arraya 
+            if(nums[i] == nums.length)
+                flage = true;   //defanatliy missing   numbers is smaller that n+2 
         }
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] < 0) {
+                int ele = -1 * nums[i];
+                if (ele < nums.length)
+                    if (nums[ele] > 0)
+                        nums[ele] = -1 * nums[ele];
 
-            int ele = Math.abs(nums[i]);
-            if (ele >= 1 && ele <= n) {
-                if (nums[ele - 1] > 0) {
-                    nums[ele - 1] = -nums[ele - 1];
-                } else if (nums[ele - 1] == 0) {
-                    nums[ele - 1] = -(n + 1);
-                }
             }
-
-        }
-
-        for (int i = 0; i < n; i++) {
-            if (nums[i] >= 0) {
-                return i + 1;
+             else {
+                int ele =  nums[i];
+                if (ele  < nums.length)
+                    if (nums[ele] > 0)
+                        nums[ele] = - 1 * nums[ele];
             }
         }
-        return n + 1;
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] > 0)
+                return i;
+        }
+        if(flage)return((nums.length) + 1);
+        return nums.length;
+
     }
 }
