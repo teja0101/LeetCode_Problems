@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/teja0101/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/teja0101/LeetCode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/teja0101/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0873-guess-the-word](https://github.com/teja0101/LeetCode_Problems/tree/master/0873-guess-the-word) |
 | [0945-snakes-and-ladders](https://github.com/teja0101/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/teja0101/LeetCode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3194-find-words-containing-character](https://github.com/teja0101/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/teja0101/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/teja0101/LeetCode_Problems/tree/master/0125-valid-palindrome) |
+| [0873-guess-the-word](https://github.com/teja0101/LeetCode_Problems/tree/master/0873-guess-the-word) |
 | [3194-find-words-containing-character](https://github.com/teja0101/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0873-guess-the-word](https://github.com/teja0101/LeetCode_Problems/tree/master/0873-guess-the-word) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/teja0101/LeetCode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/teja0101/LeetCode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/teja0101/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -103,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/teja0101/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/teja0101/LeetCode_Problems/tree/master/0873-guess-the-word) |
+## Game Theory
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/teja0101/LeetCode_Problems/tree/master/0873-guess-the-word) |
 <!---LeetCode Topics End-->
