@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/teja0101/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/teja0101/LeetCode_Problems/tree/master/0041-first-missing-positive) |
+| [0068-text-justification](https://github.com/teja0101/LeetCode_Problems/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/teja0101/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/teja0101/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/teja0101/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/teja0101/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
+| [0068-text-justification](https://github.com/teja0101/LeetCode_Problems/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/teja0101/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0873-guess-the-word](https://github.com/teja0101/LeetCode_Problems/tree/master/0873-guess-the-word) |
 | [3194-find-words-containing-character](https://github.com/teja0101/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/teja0101/LeetCode_Problems/tree/master/0068-text-justification) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/teja0101/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
