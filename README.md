@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/teja0101/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/teja0101/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0068-text-justification](https://github.com/teja0101/LeetCode_Problems/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/teja0101/LeetCode_Problems/tree/master/0125-valid-palindrome) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/teja0101/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/teja0101/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/teja0101/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/teja0101/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/teja0101/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
