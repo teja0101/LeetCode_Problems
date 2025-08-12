@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/teja0101/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/teja0101/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/teja0101/LeetCode_Problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/teja0101/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/teja0101/LeetCode_Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/teja0101/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/teja0101/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 ## String
 |  |
 | ------- |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/teja0101/LeetCode_Problems/tree/master/0873-guess-the-word) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/teja0101/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/teja0101/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
