@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/teja0101/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/teja0101/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/teja0101/LeetCode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/teja0101/LeetCode_Problems/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/teja0101/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0873-guess-the-word](https://github.com/teja0101/LeetCode_Problems/tree/master/0873-guess-the-word) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/teja0101/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/teja0101/LeetCode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/teja0101/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/teja0101/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/teja0101/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/teja0101/LeetCode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/teja0101/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
